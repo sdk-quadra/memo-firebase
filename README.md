@@ -2,9 +2,6 @@
 * Vue CLIのmemoアプリ
 * 保存先はfirebaseです
 
-## demo
-* https://memo-firebase.herokuapp.com
-
 ## セットアップ
 ```
 $ npm install
