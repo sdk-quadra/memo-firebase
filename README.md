@@ -17,6 +17,15 @@ $ npm install -g firebase-tools
 $ firebase login
 ```
 
+## 環境変数
+* top階層に`.env.development.local`を作成し、firebaseの情報を以下を記述してください
+```
+VUE_APP_API_KEY="****"
+VUE_APP_PROJECT_ID="****"
+VUE_APP_SENDER_ID="****"
+VUE_APP_APP_ID="****"
+VUE_APP_MEASUREMENT="****"
+```
 
 ## 起動
 ```
